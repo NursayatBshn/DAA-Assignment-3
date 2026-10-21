@@ -1,4 +1,4 @@
-package daa.metrics;
+package main.java.daa.metrics;
 
 /**
  * Класс для подсчета операций в алгоритмах.

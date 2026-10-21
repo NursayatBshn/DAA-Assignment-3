@@ -1,8 +1,8 @@
-package daa;
+package test.java.daa;
 
-import daa.algorithms.KahnTopologicalSort;
-import daa.algorithms.TopoResult;
-import daa.graph.Graph;
+import main.java.daa.algorithms.KahnTopologicalSort;
+import main.java.daa.algorithms.TopoResult;
+import main.java.daa.graph.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;

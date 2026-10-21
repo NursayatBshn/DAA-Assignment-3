@@ -1,6 +1,6 @@
-package daa;
+package main.java.daa;
 
-import daa.bench.Benchmark;
+import main.java.daa.bench.Benchmark;
 
 import java.io.IOException;
 

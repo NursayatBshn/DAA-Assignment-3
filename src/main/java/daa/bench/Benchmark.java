@@ -1,8 +1,8 @@
-package daa.bench;
+package main.java.daa.bench;
 
-import daa.algorithms.*;
-import daa.graph.Graph;
-import daa.graph.GraphGenerator;
+import main.java.daa.algorithms.*;
+import main.java.daa.graph.Graph;
+import main.java.daa.graph.GraphGenerator;
 
 import java.io.File;
 import java.io.IOException;

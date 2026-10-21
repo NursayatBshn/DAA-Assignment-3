@@ -1,4 +1,4 @@
-package daa.dsu;
+package main.java.daa.dsu;
 
 /**
  * Система непересекающихся множеств (Disjoint Set Union / DSU).

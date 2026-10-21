@@ -1,4 +1,4 @@
-package daa.graph;
+package main.java.daa.graph;
 
 import java.io.BufferedReader;
 import java.io.File;

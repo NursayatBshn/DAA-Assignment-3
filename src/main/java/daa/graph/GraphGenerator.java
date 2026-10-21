@@ -1,4 +1,4 @@
-package daa.graph;
+package main.java.daa.graph;
 
 import java.util.Random;
 

@@ -1,6 +1,6 @@
-package daa;
+package test.java.daa;
 
-import daa.dsu.DisjointSetUnion;
+import main.java.daa.dsu.DisjointSetUnion;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;

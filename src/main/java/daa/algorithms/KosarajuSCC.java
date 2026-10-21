@@ -1,8 +1,8 @@
-package daa.algorithms;
+package main.java.daa.algorithms;
 
-import daa.graph.Edge;
-import daa.graph.Graph;
-import daa.metrics.Metrics;
+import main.java.daa.graph.Edge;
+import main.java.daa.graph.Graph;
+import main.java.daa.metrics.Metrics;
 
 import java.util.ArrayList;
 import java.util.Arrays;

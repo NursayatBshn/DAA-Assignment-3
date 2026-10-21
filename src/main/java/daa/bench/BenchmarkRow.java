@@ -1,4 +1,4 @@
-package daa.bench;
+package main.java.daa.bench;
 
 /**
  * Строка результата бенчмарка для вывода в CSV.

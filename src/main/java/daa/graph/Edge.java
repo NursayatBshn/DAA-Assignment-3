@@ -1,4 +1,4 @@
-package daa.graph;
+package main.java.daa.graph;
 
 /**
  * Класс ребра графа, соединяющего вершину u и вершину v с весом weight.

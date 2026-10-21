@@ -1,6 +1,6 @@
-package daa.algorithms;
+package main.java.daa.algorithms;
 
-import daa.metrics.Metrics;
+import main.java.daa.metrics.Metrics;
 
 import java.util.Collections;
 import java.util.List;

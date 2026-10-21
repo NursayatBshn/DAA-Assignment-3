@@ -1,9 +1,9 @@
-package daa;
+package test.java.daa;
 
-import daa.algorithms.KruskalMST;
-import daa.algorithms.MstResult;
-import daa.algorithms.PrimMST;
-import daa.graph.Graph;
+import main.java.daa.algorithms.KruskalMST;
+import main.java.daa.algorithms.MstResult;
+import main.java.daa.algorithms.PrimMST;
+import main.java.daa.graph.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package daa.bench;
+package main.java.daa.bench;
 
 import java.io.File;
 import java.io.FileWriter;

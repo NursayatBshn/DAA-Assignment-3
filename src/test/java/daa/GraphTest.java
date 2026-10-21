@@ -1,6 +1,6 @@
-package daa;
+package test.java.daa;
 
-import daa.graph.Graph;
+import main.java.daa.graph.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;

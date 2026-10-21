@@ -1,9 +1,9 @@
-package daa;
+package test.java.daa;
 
-import daa.algorithms.DagShortestPath;
-import daa.algorithms.PathResult;
-import daa.graph.Edge;
-import daa.graph.Graph;
+import main.java.daa.algorithms.DagShortestPath;
+import main.java.daa.algorithms.PathResult;
+import main.java.daa.graph.Edge;
+import main.java.daa.graph.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

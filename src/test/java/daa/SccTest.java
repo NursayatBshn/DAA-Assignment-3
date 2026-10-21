@@ -1,9 +1,9 @@
-package daa;
+package test.java.daa;
 
-import daa.algorithms.KosarajuSCC;
-import daa.algorithms.SccResult;
-import daa.graph.Edge;
-import daa.graph.Graph;
+import main.java.daa.algorithms.KosarajuSCC;
+import main.java.daa.algorithms.SccResult;
+import main.java.daa.graph.Edge;
+import main.java.daa.graph.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
